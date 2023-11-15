@@ -12,9 +12,9 @@ Acara ini akan memberikan penjelasan dan contoh penggunaan teknologi container d
 ## Rundown
 - 19.00 - 19.05 : Pembukaan oleh moderator (Dimas Maulana - Curriculum Developer Dicoding).
 - 19.05 - 19.35 : Pembahasan materi oleh pembicara (Ananda Dwi Rahmawati - AWS Community Builder | Sr. Cloud Engineer at Btech).
-- 19.35 -20.05 : Pembahasan materi oleh pembicara (Rio Astamal - Developer Advocate at Amazon Web Services (AWS)).
+- 19.35 - 20.05 : Pembahasan materi oleh pembicara (Rio Astamal - Developer Advocate at Amazon Web Services (AWS)).
 - 20.05 - 20.25 : Sesi tanya jawab bersama Speaker dan Moderator
-- 20.25 -20.30 : Penutupan acara
+- 20.25 - 20.30 : Penutupan acara
 
 ## Event
 [View](https://www.dicoding.com/events/5980)
